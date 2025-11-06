@@ -1,5 +1,6 @@
 # 👋 Cześć, jestem Patryk
-
+Piszę kod od tak dawna, że nie pamiętam, kiedy zacząłem.
+Stworzyłem sporo projektów, niektóre pewnie widziałeś nawet o tym nie wiedząc....
 
 ## Języki:
 ![Static Badge](https://img.shields.io/badge/python-3776AB?style=flat)
