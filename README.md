@@ -11,3 +11,4 @@ Stworzyłem sporo projektów, niektóre pewnie widziałeś nawet o tym nie wiedz
 
 ### Kontakt:
 [![Static Badge](https://img.shields.io/badge/gmail-EA4335?style=flat&color=%23EA4335)](https://www.google.com)
+![Static Badge](https://img.shields.io/badge/facebook-0866FF?style=flat&color=%230866FF)
