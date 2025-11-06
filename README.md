@@ -9,7 +9,7 @@ Stworzyłem sporo projektów, niektóre pewnie widziałeś nawet o tym nie wiedz
 ![Static Badge](https://img.shields.io/badge/c%2B%2B-00599C?style=flat&color=%2300599C)
 
 ## Statystyki:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?patpwsb=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patpwsb&show_icons=true&theme=radical)
 
 ### Kontakt:
 [![Static Badge](https://img.shields.io/badge/gmail-EA4335?style=flat&color=%23EA4335)](https://www.google.com)
